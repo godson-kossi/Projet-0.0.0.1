@@ -1,0 +1,101 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url('imag/imag2.png') no-repeat center / cover;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 700;
+    background: rgba(7, 1, 1, 0.966);
+    padding: 5px 5px;
+}
+
+.image-container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr); /* 5 colonnes pour les 10 blocs */
+    gap: 10px; /* Espacement entre les blocs */
+    width: 80vw; /* Largeur ajustée pour centrer dans le cadre */
+    height: 80vh; /* Hauteur ajustée pour le cadre noir */
+    box-shadow: 0 0 0 8px #ff7200, 0 0 0 12px #000; /* Double encadrement */
+    padding: 10px;
+    background-color: black; /* Couleur de fond du cadre noir */
+}
+
+.image-group {
+    position: relative;
+    overflow: hidden; /* Masque les images au-delà des limites du conteneur */
+    width: 100%; /* S'adapte à la largeur du conteneur */
+    aspect-ratio: 1/1; /* Maintient un carré */
+    border: 8px double #ff7200;
+}
+
+.image-group img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+}
+
+/* Animation normale pour les blocs 1, 2, 4-7, 9, 10 */
+.image-group:not(.middle) img:nth-child(1) { animation: slide 8s infinite 0s; }
+.image-group:not(.middle) img:nth-child(2) { animation: slide 8s infinite 2s; }
+.image-group:not(.middle) img:nth-child(3) { animation: slide 8s infinite 4s; }
+.image-group:not(.middle) img:nth-child(4) { animation: slide 8s infinite 6s; }
+
+/* Animation avec un décalage de 2 secondes pour les blocs 3 et 8 */
+.image-group.middle img:nth-child(1) { animation: slide 8s infinite 2s; }
+.image-group.middle img:nth-child(2) { animation: slide 8s infinite 4s; }
+.image-group.middle img:nth-child(3) { animation: slide 8s infinite 6s; }
+.image-group.middle img:nth-child(4) { animation: slide 8s infinite 8s; }
+
+@keyframes slide {
+    0%, 25% { opacity: 1; }
+    50%, 100% { opacity: 0; }
+}
+
+.title {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(208, 73, 6, 0.7);
+    color: #fff;
+    padding: 7px;
+    text-align: center;
+    font-size: 10px;
+}
+
+.btn-container {
+    margin-top: 10px;
+}
+
+.btn {
+    margin: 0 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #2dcad0;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #1976b3;
+}
