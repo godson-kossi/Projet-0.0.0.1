@@ -22,10 +22,10 @@
     <div class="image-container">
         <div class="image-group">
         <a href=" https://s.click.aliexpress.com/e/_EykGNP3"> 
-        <img src="i/1.jpg" alt="Data Engineer">
+        <img src="i/1.jpg" alt="  ">
         <img src="i/1..jpg" alt="s  " >
-        <img src="i/1...jpg" alt="Data Manager">
-        <img src="i/1....jpg" alt="Data Manager">
+        <img src="i/1...jpg" alt=" ">
+        <img src="i/1....jpg" alt=" ">
     
         <div class="title">% En Promo</div>
         </a>
@@ -33,10 +33,10 @@
 
     <div class="image-group">
         <a href=" https://s.click.aliexpress.com/e/_EISfvvn">
-        <img src="i/2.jpg" alt="Data Manager">
-        <img src="i/2..jpg" alt="Data Manager">
-        <img src="i/2...jpg" alt="Data Manager">
-        <img src="i/2....jpg" alt="Data Manager">
+        <img src="i/2.jpg" alt=" ">
+        <img src="i/2..jpg" alt="  ">
+        <img src="i/2...jpg" alt="  ">
+        <img src="i/2....jpg" alt=" ">
         
         <div class="title"> % En Promo</div>
         </a>
@@ -45,9 +45,9 @@
     <div class="image-group middle">
         <a href=" https://s.click.aliexpress.com/e/_EJ9Q3Tb">
         <img src="i/3.jpg" alt="Growth Hacker">
-        <img src="i/3..jpg" alt="Data Manager">
-        <img src="i/3...jpg" alt="Data Manager">
-        <img src="i/3....jpg" alt="Data Manager">
+        <img src="i/3..jpg" alt=" ">
+        <img src="i/3...jpg" alt="  ">
+        <img src="i/3....jpg" alt="  ">
         
         <div class="title"> % En Promo</div>
         </a>
@@ -56,9 +56,9 @@
     <div class="image-group">
         <a href=" https://s.click.aliexpress.com/e/_EymKmJf">
         <img src="i/4.jpg" alt="Data Protection Officer">
-        <img src="i/4..jpg" alt="Data Manager">
-        <img src="i/4...jpg" alt="Data Manager">
-        <img src="i/4....jpg" alt="Data Manager">
+        <img src="i/4..jpg" alt=" r">
+        <img src="i/4...jpg" alt=" ">
+        <img src="i/4....jpg" alt="  ">
         
         <div class="title"> % En Promo </div>
         </a>
@@ -66,50 +66,50 @@
 
     <div class="image-group">
         <a href=" https://s.click.aliexpress.com/e/_EvaiX0N">
-        <img src="i/5.jpg" alt="Data Product Manager">
-        <img src="i/5..jpg" alt="Data Manager">
-        <img src="i/5...jpg" alt="Data Manager">
-        <img src="i/5....jpg" alt="Data Manager">
+        <img src="i/5.jpg" alt=" ">
+        <img src="i/5..jpg" alt=" r">
+        <img src="i/5...jpg" alt=" r">
+        <img src="i/5....jpg" alt=" ">
         <div class="title"> % En Promo  </div>
         </a>
     </div>
 
     <div class="image-group">
         <a href=" https://s.click.aliexpress.com/e/_EIT8Zx7">
-        <img src="i/6.jpg" alt="Data Architect">
-        <img src="i/6..jpg" alt="Data Manager">
-        <img src="i/6...jpg" alt="Data Manager">
-        <img src="i/6....jpg" alt="Data Manager">
+        <img src="i/6.jpg" alt=" ">
+        <img src="i/6..jpg" alt=" ">
+        <img src="i/6...jpg" alt="  ">
+        <img src="i/6....jpg" alt=" r">
         <div class="title"> % En Promo</div>
         </a>
     </div>
 
     <div class="image-group">
         <a href=" https://s.click.aliexpress.com/e/_EJYUXuN">
-        <img src="i/7.jpg" alt="Data Marketing">
-        <img src="i/7..jpg" alt="Data Manager">
-        <img src="i/7...jpg" alt="Data Manager">
-        <img src="i/7....jpg" alt="Data Manager">
+        <img src="i/7.jpg" alt="  ">
+        <img src="i/7..jpg" alt="  r">
+        <img src="i/7...jpg" alt="  r">
+        <img src="i/7....jpg" alt=" ">
         <div class="title"> % En Promo</div>
         </a>
     </div>
 
     <div class="image-group middle">
         <a href=" https://s.click.aliexpress.com/e/_EwbwzKZ">
-        <img src="i/8.jpg" alt="Big Data">
-        <img src="i/8..jpg" alt="Data Manager">
-        <img src="i/8...jpg" alt="Data Manager">
-        <img src="i/8....jpg" alt="Data Manager">
+        <img src="i/8.jpg" alt=" ">
+        <img src="i/8..jpg" alt=" r">
+        <img src="i/8...jpg" alt="  ">
+        <img src="i/8....jpg" alt="  ">
         <div class="title"> % En Promo</div>
         </a>
     </div>
 
     <div class="image-group">
         <a href=" https://s.click.aliexpress.com/e/_EQ4KSA9">
-        <img src="i/9.jpg" alt="Data Scientist">
-        <img src="i/9..jpg" alt="Data Manager">
-        <img src="i/9...jpg" alt="Data Manager">
-        <img src="i/9....jpg" alt="Data Manager">
+        <img src="i/9.jpg" alt=" ">
+        <img src="i/9..jpg" alt="  ">
+        <img src="i/9...jpg" alt="  ">
+        <img src="i/9....jpg" alt="  ">
         
         <div class="title"> % En Promo</div>
         </a>
@@ -118,9 +118,9 @@
     <div class="image-group">
         <a href=" https://s.click.aliexpress.com/e/_EGKkE1b">
         <img src="i/10.jpg" alt="Data Ops Orchestrator">
-        <img src="i/10..jpg" alt="Data Manager">
-        <img src="i/10...jpg" alt="Data Manager">
-        <img src="i/10....jpg" alt="Data Manager">
+        <img src="i/10..jpg" alt=" ">
+        <img src="i/10...jpg" alt=" ">
+        <img src="i/10....jpg" alt=" ">
     
         <div class="title"> % En Promo</div>
         </a>
